@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[for(${1:i} ${2:istart} ${3:istop} 
+    <content><![CDATA[(for ${1:i} ${2:istart} ${3:istop} 
     $4
-)]]></content>
+;for)]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>for</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->

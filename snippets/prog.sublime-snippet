@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[prog((${1:variables}) 
+    <content><![CDATA[(prog (${1:variables}) 
     $2
-    return(${3:value})
-)]]></content>
+    (return ${3:value})
+);prog]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>prog</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->

@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[case(${1:variable}
+    <content><![CDATA[(case ${1:variable}
 	(${2:value}
 		$3
 	)	
-)]]></content>
+);case]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>case</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->

@@ -3,7 +3,7 @@
 	(${1:condition}
 		$2
 	)	
-)]]></content>
+);cond]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>cond</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->

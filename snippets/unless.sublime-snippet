@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[unless(${1:condition}
+    <content><![CDATA[(unless ${1:condition}
     $2
-)]]></content>
+);unless]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>unless</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->

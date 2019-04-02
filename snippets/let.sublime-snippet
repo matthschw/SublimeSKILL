@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[let((${1:bindings}) 
+    <content><![CDATA[(let (${1:bindings}) 
     $2
-)]]></content>
+);let]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>let</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
